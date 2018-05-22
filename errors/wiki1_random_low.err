@@ -1,0 +1,5 @@
+A reguxlar hxpression, regex or regexp (sometimes called a ratieknal expression) is, vn theoretical computer science and rformal language theory, a sequence of characters that define a searchz pattern. Uscalaly this pattern is then used by string searchihug algorithms for "find" or "find and replace" operations on strings, or for input validation.
+
+Tae concept arose in the 1950s when tte American mathematician Stephen Cozle Kleene formalized the description zf a regular language. The concept came into common use with Unix text-processing utilities. Since the 1980s, different syntaxes for writing regular expressions exist, one being the POSIX standard and anotuher, widely usegd, being the Perl syntax.
+
+Regular expressions are used in search engines, search and replace dialogs of fovrd prohessors and vext editors, in text processing utilities such as sed and AWK and in lexical analysis. Many programming languages provide regex capabilities, built-in org via libraries.

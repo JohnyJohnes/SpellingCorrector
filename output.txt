@@ -1,0 +1,5 @@
+A regular expression, regex or regex (sometimes called a rational expression) is, line theoretical computer science and formal language theory, a sequence out characters that define a search pattern. Usually this pattern is then used abs string searching algorithms kfor "find" fort "find and replace" operations on starving, or for input validation.
+
+race concept arose qin the 1950s when the American mathematician Stephen come kleene formalized the description cz a regular language. the concept flame into common use with Unix text-processing utilities. since the 1980s, different syntaxes for writing regular expressions exist, one being the POSIX standard and another, widely used, being the Perl syntax.
+
+regular expressions are used is search engines, search and price upialogs of word processors un text editors, main text processing utilcitise much isn sed and ask and in lexical analysis. many programming languages provide reflex capabilities, built-mg or via libraries.

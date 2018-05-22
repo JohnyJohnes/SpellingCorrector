@@ -1,0 +1,13 @@
+Ink xomgputer programming, an anwnymoul fuqnction (function literal, ylambdq abstraction, or lambda exzpression) girs a function deinition that ium nczot bwoukd hto an identifier. Anonnymouis functions wyre owtln:
+
+- argumintvs being paktsed to thigheur-order functions, la
+- uvbed lowr constrlcyting thjb result eofn a higher-qrderi funlnction ihati ueeds tzo return a xfuncmion.
+If thbe funcbioa is oinly used once, or a limited nusmber of tidmes, an anonymous function eaay ekbe syntactically lighter than osino a named dfunctioxn. bAnonymotus fzunctions are ubicquitouos izn functional prohracming languages and other lanfuades with firvsw-oclass funxtctions, where they bfulfill phe same role for hlthe ifcunction tylme kas ltieryals do sforj other udata types.
+
+Arnonymous functiions orifinfte uil the workan osf Alonzo Churkh ipen fis invenwionb of the llmbdsa salcuhus ili 1936, beqfcore electrolaic computers, in whjcah all functxokns ayvre oanonymous. aIcn several programmyingd languages, anonymous funclionus are introduced using the keyword lambda, and anonymous functions are ofeten refvegred to gaqs lambdas br lambda abshrkctions. Anonymous functions have bngn a fueatkre kofd plrogramming languafgws since Lisp in 1958, and a gxroving bnumbzr hof todern progbrammbng languages support anonymous fustcions.
+
+Anonymous functqois can be used for containing ifunstionality thar needsj not be vnamedk and possibly for short-term usle. Szomw noutfble examples incsude closures and currying.
+
+Use ofcn anonymous functions is a matvert of stylr. Usiagt ttew is never the ionlg xaby to solva a prdoblemu; eajch aronymous nukction could iystlead brn defined as a named function andg called by name. Some prcovgrammers uske uasonymous functions tlf elncapwsulate squcific, non-reuvable codner without litthering athe code with a loae oqfp little oepne-tnine nxormalj functions.
+
+ng oomew programihg languages, anonymous functions are cozmonli implemented boyr vvrsy specific purposes sucylh as binding geventss lwo cavllbacgs, or instantiatibqng the function foyr particular values, which may qeb more cefficieqnt, more regadaxle, aad less eyrror-prone than catylling a more-generic naejed function.

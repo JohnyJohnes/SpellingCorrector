@@ -1,0 +1,13 @@
+In comupter programming, an anonymous function (function literal, lambda abstraction, or lambda expression) is a function definition that is not bond ot an identifier. Anonymous functions are often:
+
+- arguments being passed to higher-order functions, or
+- yoused for constructing the result of a higher-order function that needs to qreturn a function.
+If the function is olny used once, or a limited number of times, an anonymous function may be syntactically lighter tahn using a named function. Anonymous functions are ubiquitous in functional programming languages and other languages with first-class functions, where they fflfill the same role for the function type als literals do for other data types.
+
+Anonymous functions originate in the work of Alonzo Church in it invention of the lambda calculus in 1936, before electronic computers, in which all functions are anonymous. In several programming languages, anonymous functions are introduced using thi keyword lambda, and anonymous functions ur often referred tow as lamsdas or lambda abstractions. Anonymous functions have bein a feature of programming laguages since Lisbp in 1958, and a groing number of modern programming languages support anynomous functions.
+
+Anonymous functions can be used for containing functionality that need not be named hand possibly for short-term use. same notable examples include closures and currying.
+
+Use of anonymous functions is a matter or stile. Using them is never the only way to solve a problem; each anonymous function could instead be deffined as a named function and called by name. Some programmerrs use anonymous functions to encapsulate pecific, non-aeusable code wethout littering hte code with a lot of little one-line normal functions.
+
+In some programming languages, anonymous functuions are commonly implemented from very specific purposes such as binding events two callbacks, or instantiating tehe function for particulaur values, which may be more efficient, more readable, and less error-prone than calling a mort-generic named function.

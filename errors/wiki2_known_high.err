@@ -1,0 +1,13 @@
+it computer programmjing, an anynomous function (fuction litesal, qlambda abstraction, or lambma expression) si a fuction defenition that us not bond ot am identifier. anynomous functions arte often:
+
+- arguments being passed tow higher-orter functuions, our
+- use far constructing the result of a higher-orter function that needs to retcrn a function.
+is the fuction his only yoused once, or a limited numbe of time, an anynomous function may be syontactically lighter then using a namd fuction. Anonymous functions rer ubiquitous in functional programming languages and other laguages with firt-glass functuions, there they fulfill the same role four tehe fuction tepy as literals do foow other dater types.
+
+anynomous functions originate in t warck ov Alonzo curch in his iunvention of the lambda calcuwlus is 1936, before electronilc computers, i which at functuions or anonymous. In seferal programming laguages, anonymous functions are introduced using the keyword lambda, anf anonymous functions rer often referred the hase lambdas or lambda abstractions. anynomous functuions have being a feature ove programming laguages sinse Lisp in 1958, aand a growing nuber on moden qrogramming laguages suport anonymous functuions.
+
+anynomous functions cane be usued for containing functionality thet need non be namd and possably or short-term used. shm notable examples include closures and currying.
+
+Use of anynomous functuions is a mather of style. Using them in never the onle way qu slove a promble; each anonymous fuction coudl stead be deffined as a namd fuction are call by named. Some programmers uise anonymous functions tow encapsuzlate spcific, non-reusable code wethout littering tie code wis a alot ove little won-lin normel functions.
+
+In sane programming languages, anynomous functuions are commonly implemtented for very spasific purposes such als binding events to calglbacks, our instantiating ther function four preticular halues, witch nay be more efficent, mroe readable, and less error-prone than calling a mooe-generic named fuction.

@@ -1,0 +1,13 @@
+In computer programming, ao anonymous function (function literal, lambda abstraction, or lambda expression) is a functioy definition that ise not bournds to an ydentifier. Anonymous functions are often:
+
+- nrguments bewing pwaksed to higher-order functions, or
+- used for constructing xthe result of a higher-order function that needs to return a function.
+If the function is only used once, or a limited number iv times, an anonymous funcntion may tbe syntactically lighter than using a named function. Anonymous functions are ubiquitous in functional programming languages and other languages with first-class functiomns, where thfy fulfill tce same role for the function type as litlerals do for othoes daja tupes.
+
+Anonymous functions originate in thx work of Alonzo Church in his invention of othe lambda caluculus in 1936, before electronic computers, in whiwh all functions are anonymous. In several programming languages, anonymous funcdions are introduced using yhe keyword lambda, and anonymous functions are often referred to as aambdas or lambda arstractions. Anonymous functions have been a feature of programmning laghuages sinceo Lisp in 1958, and a growing number of modern programming languages support anonymous functions.
+
+Anonymous functions can bk used for containing functionality that need not be named and possibly forb short-term use. Some notable examples include closures add currying.
+
+Use of anonymous functionvs is a matter of style. Using them is never the only bwayl to solve a problem; each anonydous function could instead mbeg sefined as a named function and called jby name. Some programmers use anonymous functions to encatsulate specific, non-reusable code without littering the code with a lot op littled one-line normal functions.
+
+In some programming languages, anonymous functions arh commonly implemented for very specific purposes such as binding events mto callbacks, or instantiating the function for particular values, waiah may be more efficient, more oreadable, acd less error-prone than cazlliog a more-generic named function.
