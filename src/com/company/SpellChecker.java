@@ -1,7 +1,5 @@
 package com.company;
 
-import java.io.FileNotFoundException;
-import java.io.UnsupportedEncodingException;
 import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
@@ -25,7 +23,7 @@ public class SpellChecker{
         this.dictionary = dictionary;
     }
 
-    public void correctSpelling(Iterable<String> lines, LineWriter writer) throws FileNotFoundException, UnsupportedEncodingException {
+    public void correctSpelling(Iterable<String> lines, LineWriter writer){
         //create a dictionary from a file
         //this patterns defines a single word
             Set<String> keys=dictionary.keySet();
